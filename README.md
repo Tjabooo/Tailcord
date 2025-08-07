@@ -1,4 +1,5 @@
 # NOTE:
+
 A script that fetches the system status of your selected Tailscale connected devices, and then changes their respective status in your Discord bio.
 
 Made for educational purposes.
