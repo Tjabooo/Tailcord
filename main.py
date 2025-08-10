@@ -8,7 +8,7 @@ load_dotenv()
 
 DISCORD_API_URL = 'https://discord.com/api/v9/users'
 TAILSCALE_STATUS_COMMAND = 'tailscale status --json'
-SLEEP_INTERVAL = 10
+SLEEP_INTERVAL = 30
 TOKEN = os.getenv('TOKEN')
 USER_ID = os.getenv('USER_ID')
 NODE_KEY_1 = os.getenv('NODE_KEY_1')
